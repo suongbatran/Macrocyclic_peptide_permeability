@@ -1,2 +1,0 @@
-Starting hyperparameter search at Sun 11 May 2025 11:35:55 AM EDT
-Logging to: /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/logs/MLP_e3fp/split_random/run_20250511_113555.txt

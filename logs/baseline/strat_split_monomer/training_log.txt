@@ -200,7 +200,7 @@ Epoch 197: Improved validation loss to 1.5104. Model saved!
 Epoch 198: Improved validation loss to 1.4657. Model saved!
 Epoch 199: Improved validation loss to 1.4228. Model saved!
 Epoch 200: Improved validation loss to 1.3816. Model saved!
-Epoch 200/2000, Train Loss: 1.4135, Val Loss: 1.3816
+Epoch 200/200, Train Loss: 1.4135, Val Loss: 1.3816
 Epoch 201: Improved validation loss to 1.3422. Model saved!
 Epoch 202: Improved validation loss to 1.3043. Model saved!
 Epoch 203: Improved validation loss to 1.2681. Model saved!

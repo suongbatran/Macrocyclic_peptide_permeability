@@ -1,5 +1,0 @@
-Prediction started
-Saved prediction to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/results/baseline/split_random/test_predict.csv
-R2 Score: -0.1977
-Mean Squared Error (MSE): 0.4777
-Time taken for prediction: 0.03 seconds

@@ -1,3 +1,0 @@
-2025-05-06 04:10:31,338 - INFO - /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_train.pt exists, skip.
-2025-05-06 04:10:31,338 - INFO - /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_val.pt exists, skip.
-2025-05-06 04:10:31,338 - INFO - /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_test.pt exists, skip.

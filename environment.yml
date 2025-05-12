@@ -1,4 +1,4 @@
-name: mol4eng
+name: perpeptide
 channels:
   - pytorch
   - nvidia

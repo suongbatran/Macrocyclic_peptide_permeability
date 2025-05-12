@@ -62,13 +62,13 @@ df = df[['CycPeptMPDB_ID', 'sequence', 'permeability', 'num_monomers']]
 df = df[df['permeability'] != -10 ]
 
 # Random split
-random_output_dir = "data/split_random/raw"
+random_output_dir = "data/random split/raw"
 random_split_data(df, random_output_dir)
 
 # Split by number of monomer
-monomer_output_dir = "data/split_monomer/raw"
+monomer_output_dir = "data/monomer-based split/raw"
 num_monomer_split_data(df, monomer_output_dir)
 
 # Stratified split by number of monomer
-strat_monomer_output_dir = "data/strat_split_monomer/raw"
+strat_monomer_output_dir = "data/stratified monomer-based split/raw"
 stratified_monomer_split_data(df, strat_monomer_output_dir)
