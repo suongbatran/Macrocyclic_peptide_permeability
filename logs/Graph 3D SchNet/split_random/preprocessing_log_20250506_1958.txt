@@ -1,6 +1,0 @@
-2025-05-06 19:58:34,580 - INFO - Processing raw_train.csv   (#rows=2440)
-2025-05-06 20:24:43,840 - INFO - Saved 121980 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/train.pt in 1569.3s
-2025-05-06 20:24:43,863 - INFO - Processing raw_val.csv   (#rows=305)
-2025-05-06 20:28:37,975 - INFO - Saved 15236 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/val.pt in 234.1s
-2025-05-06 20:28:37,984 - INFO - Processing raw_test.csv   (#rows=305)
-2025-05-06 20:31:40,362 - INFO - Saved 15250 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/test.pt in 182.4s

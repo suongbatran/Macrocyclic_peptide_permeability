@@ -1,6 +1,6 @@
 ## Predicting Membrane Permeability of Macrocyclic Peptides
 
-### Load environment 
+## Load environment 
 
 ```bash
 conda env create -f environment.yml
@@ -11,7 +11,7 @@ For Graph 3D SchNet:
 conda env create -f environment_schnet.yml
 conda activate schnet
 ```
-### Data
+## Data
 #### Download data
 
 ```bash
@@ -33,7 +33,7 @@ Each file in the “pickle” folder contains a Python dictionary with amino aci
 Each `sequence.pickle` in the `pickle` folder is has the name of the `sequence` column provided in permeability
 You could use `view_data.ipynb` to see how the data is stored.
 
-#### Retrain models 
+## Retrain models 
 
 To re-train the models, follow the steps above to set up the environment and acquire the dataset then:
 

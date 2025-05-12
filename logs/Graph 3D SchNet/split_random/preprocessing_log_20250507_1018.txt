@@ -1,3 +1,0 @@
-2025-05-07 10:18:35,738 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/train.pt exists, skip.
-2025-05-07 10:18:35,738 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/val.pt exists, skip.
-2025-05-07 10:18:35,738 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/split_random/processed/test.pt exists, skip.
