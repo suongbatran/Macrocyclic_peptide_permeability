@@ -1,0 +1,478 @@
+Starting hyperparameter search at Sun 11 May 2025 12:03:22 PM EDT
+Logging to: /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/logs/MLP_e3fp/split_random/run_20250511_120322.txt
+➤ Preprocessing: bits=1024, level=3, radius=1.0
+Skipping: Already trained - h64_b1024_l3_r1.0_lr1e-3_mean
+===> New best model found! Val score: 0.009117539698220389
+Skipping: Already trained - h64_b1024_l3_r1.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l3_r1.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l3_r1.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r1.0_lr1e-3_mean
+===> New best model found! Val score: 0.009105282824170592
+Skipping: Already trained - h128_b1024_l3_r1.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r1.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l3_r1.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r1.0_lr1e-3_mean
+===> New best model found! Val score: 0.009075396369294752
+Skipping: Already trained - h256_b1024_l3_r1.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r1.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l3_r1.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=3, radius=2.0
+Skipping: Already trained - h64_b1024_l3_r2.0_lr1e-3_mean
+===> New best model found! Val score: 0.00590546552094771
+Skipping: Already trained - h64_b1024_l3_r2.0_lr1e-3_sum
+===> New best model found! Val score: 0.005809969381456395
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l3_r2.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l3_r2.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r2.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l3_r2.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r2.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l3_r2.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r2.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l3_r2.0_lr1e-3_sum
+===> New best model found! Val score: 0.005524488381628729
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r2.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l3_r2.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=3, radius=3.0
+Skipping: Already trained - h64_b1024_l3_r3.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l3_r3.0_lr1e-3_sum
+===> New best model found! Val score: 0.00468425948566951
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l3_r3.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l3_r3.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r3.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l3_r3.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l3_r3.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l3_r3.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r3.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l3_r3.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l3_r3.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l3_r3.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=4, radius=1.0
+Skipping: Already trained - h64_b1024_l4_r1.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l4_r1.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l4_r1.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l4_r1.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r1.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l4_r1.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r1.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l4_r1.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r1.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l4_r1.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r1.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l4_r1.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=4, radius=2.0
+Skipping: Already trained - h64_b1024_l4_r2.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l4_r2.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l4_r2.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l4_r2.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r2.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l4_r2.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r2.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l4_r2.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r2.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l4_r2.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r2.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l4_r2.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=4, radius=3.0
+Skipping: Already trained - h64_b1024_l4_r3.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l4_r3.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l4_r3.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l4_r3.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r3.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l4_r3.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l4_r3.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l4_r3.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r3.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l4_r3.0_lr1e-3_sum
+===> New best model found! Val score: 0.004681791156143083
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l4_r3.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l4_r3.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=5, radius=1.0
+Skipping: Already trained - h64_b1024_l5_r1.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l5_r1.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l5_r1.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l5_r1.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r1.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l5_r1.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r1.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l5_r1.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l5_r1.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l5_r1.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l5_r1.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l5_r1.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=5, radius=2.0
+Skipping: Already trained - h64_b1024_l5_r2.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l5_r2.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l5_r2.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l5_r2.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r2.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l5_r2.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r2.0_lr1e-4_mean
+Skipping: Already trained - h128_b1024_l5_r2.0_lr1e-4_sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Skipping: Already trained - h256_b1024_l5_r2.0_lr1e-3_mean
+Skipping: Already trained - h256_b1024_l5_r2.0_lr1e-3_sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Skipping: Already trained - h256_b1024_l5_r2.0_lr1e-4_mean
+Skipping: Already trained - h256_b1024_l5_r2.0_lr1e-4_sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=1024, level=5, radius=3.0
+Skipping: Already trained - h64_b1024_l5_r3.0_lr1e-3_mean
+Skipping: Already trained - h64_b1024_l5_r3.0_lr1e-3_sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Skipping: Already trained - h64_b1024_l5_r3.0_lr1e-4_mean
+Skipping: Already trained - h64_b1024_l5_r3.0_lr1e-4_sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r3.0_lr1e-3_mean
+Skipping: Already trained - h128_b1024_l5_r3.0_lr1e-3_sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Skipping: Already trained - h128_b1024_l5_r3.0_lr1e-4_mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+===> New best model found! Val score: 0.004647693391150926
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=3, radius=1.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=3, radius=2.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=3, radius=3.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+===> New best model found! Val score: 0.00447725196926221
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=4, radius=1.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=4, radius=2.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=4, radius=3.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+===> New best model found! Val score: 0.004464827234893215
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=5, radius=1.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=5, radius=2.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+➤ Preprocessing: bits=2048, level=5, radius=3.0
+Training: hidden=64, lr=1e-3, agg=mean
+Training: hidden=64, lr=1e-3, agg=sum
+Training: hidden=64, lr=1e-3, agg=softmax
+Training: hidden=64, lr=1e-3, agg=softmin
+Training: hidden=64, lr=1e-4, agg=mean
+Training: hidden=64, lr=1e-4, agg=sum
+Training: hidden=64, lr=1e-4, agg=softmax
+Training: hidden=64, lr=1e-4, agg=softmin
+Training: hidden=128, lr=1e-3, agg=mean
+Training: hidden=128, lr=1e-3, agg=sum
+===> New best model found! Val score: 0.004398328373167076
+Training: hidden=128, lr=1e-3, agg=softmax
+Training: hidden=128, lr=1e-3, agg=softmin
+Training: hidden=128, lr=1e-4, agg=mean
+Training: hidden=128, lr=1e-4, agg=sum
+Training: hidden=128, lr=1e-4, agg=softmax
+Training: hidden=128, lr=1e-4, agg=softmin
+Training: hidden=256, lr=1e-3, agg=mean
+Training: hidden=256, lr=1e-3, agg=sum
+Training: hidden=256, lr=1e-3, agg=softmax
+Training: hidden=256, lr=1e-3, agg=softmin
+Training: hidden=256, lr=1e-4, agg=mean
+Training: hidden=256, lr=1e-4, agg=sum
+Training: hidden=256, lr=1e-4, agg=softmax
+Training: hidden=256, lr=1e-4, agg=softmin
+================================================
+Top 5 Models by Validation Performance:
+1. VAL_SCORE=0.00991989287429671, hidden=64, bits=2048, level=5, radius=1.0, lr=1e-4, agg=sum
+2. VAL_SCORE=0.00991989287429671, hidden=64, bits=2048, level=4, radius=1.0, lr=1e-4, agg=sum
+3. VAL_SCORE=0.00991989287429671, hidden=64, bits=2048, level=3, radius=1.0, lr=1e-4, agg=sum
+4. VAL_SCORE=0.009919769656090137, hidden=256, bits=1024, level=5, radius=1.0, lr=1e-3, agg=sum
+5. VAL_SCORE=0.009919769656090137, hidden=256, bits=1024, level=4, radius=1.0, lr=1e-3, agg=sum
+================================================
+GLOBAL BEST MODEL
+Parameters: hidden=128, bits=2048, level=5, radius=3.0, lr=1e-3, agg=sum
+Validation score: 0.004398328373167076
+================================================
+Script completed at: Mon 12 May 2025 03:31:06 AM EDT
+Total execution time: 55664 seconds

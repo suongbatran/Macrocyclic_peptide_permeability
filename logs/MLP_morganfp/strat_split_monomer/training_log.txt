@@ -1,0 +1,29 @@
+INFO:root:Training started
+INFO:root:Epoch 100/200, Train Loss: 0.0740, Val Loss: 0.1824
+INFO:root:Epoch 200/200, Train Loss: 0.0844, Val Loss: 0.1958
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:best modellr0.001_h1256_h264_bs32
+INFO:root:Epoch 100/200, Train Loss: 0.2106, Val Loss: 0.1758
+INFO:root:Epoch 200/200, Train Loss: 0.0873, Val Loss: 0.1655
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:Epoch 100/200, Train Loss: 0.1069, Val Loss: 0.2043
+INFO:root:Epoch 200/200, Train Loss: 0.1303, Val Loss: 0.1729
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:best modellr0.001_h1512_h264_bs32
+INFO:root:Epoch 100/200, Train Loss: 0.0584, Val Loss: 0.1758
+INFO:root:Epoch 200/200, Train Loss: 0.1754, Val Loss: 0.1657
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:Epoch 100/200, Train Loss: 0.0909, Val Loss: 0.1654
+INFO:root:Epoch 200/200, Train Loss: 0.1095, Val Loss: 0.1646
+INFO:root:Training completed in 0h 0m 17s
+INFO:root:best modellr0.0005_h1256_h264_bs32
+INFO:root:Epoch 100/200, Train Loss: 0.1236, Val Loss: 0.2138
+INFO:root:Epoch 200/200, Train Loss: 0.1014, Val Loss: 0.1652
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:Epoch 100/200, Train Loss: 0.0227, Val Loss: 0.1700
+INFO:root:Epoch 200/200, Train Loss: 0.1238, Val Loss: 0.1652
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:Epoch 100/200, Train Loss: 0.0810, Val Loss: 0.1621
+INFO:root:Epoch 200/200, Train Loss: 0.1516, Val Loss: 0.1649
+INFO:root:Training completed in 0h 0m 18s
+INFO:root:Best model saved with validation loss: 0.1530

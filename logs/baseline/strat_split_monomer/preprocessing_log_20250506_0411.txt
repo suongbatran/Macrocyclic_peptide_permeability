@@ -1,0 +1,10 @@
+2025-05-06 04:11:03,337 - INFO - Start processing raw_train.csv...
+2025-05-06 04:12:29,810 - INFO - Finished processing raw_train.csv in 86.47 seconds.
+2025-05-06 04:12:29,811 - INFO - Saved processed file to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/baseline/processed/train.csv
+2025-05-06 04:12:29,811 - INFO - Start processing raw_test.csv...
+2025-05-06 04:12:39,756 - INFO - Finished processing raw_test.csv in 9.94 seconds.
+2025-05-06 04:12:39,756 - INFO - Saved processed file to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/baseline/processed/test.csv
+2025-05-06 04:12:39,756 - INFO - Start processing raw_val.csv...
+2025-05-06 04:12:50,426 - INFO - Finished processing raw_val.csv in 10.67 seconds.
+2025-05-06 04:12:50,426 - INFO - Saved processed file to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/baseline/processed/val.csv
+2025-05-06 04:12:50,426 - INFO - Total preprocessing time: 107.09 seconds.

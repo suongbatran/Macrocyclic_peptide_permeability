@@ -1,0 +1,2 @@
+2025-05-06 06:11:56,211 - INFO - Saved predictions → /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/results/Graph_2d/strat_split_monomer/test_predict.csv
+2025-05-06 06:11:56,211 - INFO - R²=-12.8525   MSE=4.6931   time=0.7s

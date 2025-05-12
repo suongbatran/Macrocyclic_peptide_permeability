@@ -1,0 +1,6 @@
+2025-05-06 04:07:43,646 - INFO - Processing raw_train.csv   (#rows=1459)
+2025-05-06 04:07:46,071 - INFO - Saved 1459 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_train.pt in 2.4s
+2025-05-06 04:07:46,075 - INFO - Processing raw_val.csv   (#rows=788)
+2025-05-06 04:07:47,068 - INFO - Saved 788 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_val.pt in 1.0s
+2025-05-06 04:07:47,071 - INFO - Processing raw_test.csv   (#rows=803)
+2025-05-06 04:07:48,169 - INFO - Saved 803 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/MLP_morganfp/processed/morganfp_test.pt in 1.1s

@@ -1,0 +1,5 @@
+Prediction started
+Saved prediction to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/results/baseline/strat_split_monomer/test_predict.csv
+R2 Score: -0.1600
+Mean Squared Error (MSE): 0.3930
+Time taken for prediction: 0.04 seconds

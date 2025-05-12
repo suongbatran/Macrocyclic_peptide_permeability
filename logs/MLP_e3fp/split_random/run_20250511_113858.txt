@@ -1,0 +1,5 @@
+Starting hyperparameter search at Sun 11 May 2025 11:38:58 AM EDT
+Logging to: /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/logs/MLP_e3fp/split_random/run_20250511_113858.txt
+================================================
+Top 5 Models by Validation Performance:
+ERROR: No valid model found across all hyperparameter combinations!

@@ -1,0 +1,6 @@
+2025-05-06 05:22:19,810 - INFO - Processing raw_train.csv   (#rows=1459)
+2025-05-06 05:22:23,541 - INFO - Saved 1459 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/Graph_2d/processed/train.pt in 3.7s
+2025-05-06 05:22:23,545 - INFO - Processing raw_val.csv   (#rows=788)
+2025-05-06 05:22:25,298 - INFO - Saved 788 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/Graph_2d/processed/val.pt in 1.8s
+2025-05-06 05:22:25,301 - INFO - Processing raw_test.csv   (#rows=803)
+2025-05-06 05:22:27,180 - INFO - Saved 803 graphs to /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/data/split_monomer/Graph_2d/processed/test.pt in 1.9s

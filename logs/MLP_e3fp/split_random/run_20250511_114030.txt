@@ -1,0 +1,24 @@
+Starting hyperparameter search at Sun 11 May 2025 11:40:30 AM EDT
+Logging to: /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/logs/MLP_e3fp/split_random/run_20250511_114030.txt
+===> New best model found! Val score: 0.009117539698220389
+===> New best model found! Val score: 0.009105282824170592
+===> New best model found! Val score: 0.009075396369294752
+===> New best model found! Val score: 0.00590546552094771
+===> New best model found! Val score: 0.005809969381456395
+===> New best model found! Val score: 0.005524488381628729
+===> New best model found! Val score: 0.00468425948566951
+===> New best model found! Val score: 0.004681791156143083
+================================================
+Top 5 Models by Validation Performance:
+1. VAL_SCORE=0.009919769656090137, hidden=256, bits=1024, level=5, radius=1.0, lr=1e-3, agg=sum
+2. VAL_SCORE=0.009919769656090137, hidden=256, bits=1024, level=4, radius=1.0, lr=1e-3, agg=sum
+3. VAL_SCORE=0.009919769656090137, hidden=256, bits=1024, level=3, radius=1.0, lr=1e-3, agg=sum
+4. VAL_SCORE=0.009878548293969362, hidden=128, bits=1024, level=5, radius=1.0, lr=1e-4, agg=sum
+5. VAL_SCORE=0.009878548293969362, hidden=128, bits=1024, level=4, radius=1.0, lr=1e-4, agg=sum
+================================================
+GLOBAL BEST MODEL
+Parameters: hidden=256, bits=1024, level=4, radius=3.0, lr=1e-3, agg=sum
+Validation score: 0.004681791156143083
+================================================
+Script completed at: Sun 11 May 2025 11:40:33 AM EDT
+Total execution time: 3 seconds

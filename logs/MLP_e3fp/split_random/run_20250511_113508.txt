@@ -1,0 +1,4 @@
+Starting hyperparameter search at Sun 11 May 2025 11:35:08 AM EDT
+Logging to: /home/suongtr/Mol4Eng/Mol4Eng_macrocyclic_peptide_permeability/logs/MLP_e3fp/split_random/run_20250511_113508.txt
+➤ Preprocessing: bits=1024, level=4, radius=2.0
+Training: hidden=256, lr=1e-3, agg=mean
