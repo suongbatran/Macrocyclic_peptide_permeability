@@ -1,0 +1,3 @@
+2025-05-12 11:00:50,656 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/train.pt exists, skip.
+2025-05-12 11:00:50,657 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/val.pt exists, skip.
+2025-05-12 11:00:50,657 - INFO - /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/test.pt exists, skip.

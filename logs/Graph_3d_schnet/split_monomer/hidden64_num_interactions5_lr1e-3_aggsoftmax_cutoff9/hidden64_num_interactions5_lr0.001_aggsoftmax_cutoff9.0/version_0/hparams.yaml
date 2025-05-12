@@ -1,0 +1,5 @@
+agg: softmax
+cutoff: 9.0
+hidden: 64
+lr: 0.001
+num_interactions: 5

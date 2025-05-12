@@ -1,0 +1,2 @@
+2025-05-09 00:09:55,187 - INFO - Saved predictions → /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/results/Graph_3d_schnet/split_monomer/test_predict.csv
+2025-05-09 00:09:55,189 - INFO - R²=0.0989   MSE=0.2219   time=8.5s

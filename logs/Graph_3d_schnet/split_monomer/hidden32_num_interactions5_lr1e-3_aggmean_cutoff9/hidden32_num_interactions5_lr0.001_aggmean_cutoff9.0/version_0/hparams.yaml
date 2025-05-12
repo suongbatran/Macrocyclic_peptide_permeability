@@ -1,0 +1,5 @@
+agg: mean
+cutoff: 9.0
+hidden: 32
+lr: 0.001
+num_interactions: 5

@@ -1,0 +1,6 @@
+2025-05-09 09:26:25,728 - INFO - Processing raw_train.csv   (#rows=2440)
+2025-05-09 09:46:42,384 - INFO - Saved 121966 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/train.pt in 1216.7s
+2025-05-09 09:46:42,402 - INFO - Processing raw_val.csv   (#rows=305)
+2025-05-09 09:49:32,132 - INFO - Saved 15250 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/val.pt in 169.7s
+2025-05-09 09:49:32,137 - INFO - Processing raw_test.csv   (#rows=305)
+2025-05-09 09:51:47,696 - INFO - Saved 15250 graphs to /home/nsomers/Github/Mol4Eng_macrocyclic_peptide_permeability/data/strat_split_monomer/processed/test.pt in 135.6s
