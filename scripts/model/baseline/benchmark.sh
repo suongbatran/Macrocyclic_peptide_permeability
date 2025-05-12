@@ -5,8 +5,7 @@ MODEL_NAME="baseline"
 SCRIPT_BASE="scripts/model/$MODEL_NAME"
 PY_CMD="python $SCRIPT_BASE"
 
-# Change this tp "split_monomer" is you want to use other dataset
-export DATA_NAME="split_random"
+export DATA_NAME="random split"
 
 export TRAIN_FILE=$PWD/data/$DATA_NAME/raw/raw_train.csv
 export VAL_FILE=$PWD/data/$DATA_NAME/raw/raw_val.csv

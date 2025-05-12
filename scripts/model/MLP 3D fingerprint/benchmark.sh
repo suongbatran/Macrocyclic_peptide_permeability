@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Set model and script base
-MODEL_NAME="MLP_e3fp"
+MODEL_NAME="MLP 3D fingerprint"
 SCRIPT_BASE="scripts/model/$MODEL_NAME"
 
 # Choose dataset
-export DATA_NAME="split_random"
+export DATA_NAME="random split"
 
 # Paths to raw data
 export RAW_DIR=$PWD/data/$DATA_NAME/raw

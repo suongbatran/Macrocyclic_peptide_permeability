@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Set model and script base
-MODEL_NAME="MLP_morganfp"
+MODEL_NAME="MLP 2D fingerprint"
 SCRIPT_BASE="scripts/model/$MODEL_NAME"
 PY_CMD="python $SCRIPT_BASE"
 
 # Choose dataset
-export DATA_NAME="split_monomer"
+export DATA_NAME="random split"
 
 # Paths to raw data
 export RAW_DIR=$PWD/data/$DATA_NAME/raw

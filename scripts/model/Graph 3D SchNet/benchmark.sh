@@ -1,12 +1,11 @@
 #!/bin/bash
 
 # Set environment variables
-MODEL_NAME="Graph_3d_schnet"
+MODEL_NAME="Graph 3D SchNet"
 SCRIPT_BASE="scripts/model/$MODEL_NAME"
 PY_CMD="$SCRIPT_BASE"
 
-# Change this tp "split_monomer" is you want to use other dataset
-export DATA_NAME="split_random"
+export DATA_NAME="random split"
 
 export TRAIN_FILE=$PWD/data/$DATA_NAME/raw_train.csv
 export VAL_FILE=$PWD/data/$DATA_NAME/raw_val.csv
